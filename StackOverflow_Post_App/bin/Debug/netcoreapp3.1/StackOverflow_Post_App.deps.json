@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StackOverflow_Post_App/1.0.0": {
+        "runtime": {
+          "StackOverflow_Post_App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StackOverflow_Post_App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

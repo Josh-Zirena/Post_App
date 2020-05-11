@@ -1,0 +1,13 @@
+C:\project\C#\Post-App\StackOverflow_Post_App\bin\Debug\netcoreapp3.1\Post_App.exe
+C:\project\C#\Post-App\StackOverflow_Post_App\bin\Debug\netcoreapp3.1\Post_App.deps.json
+C:\project\C#\Post-App\StackOverflow_Post_App\bin\Debug\netcoreapp3.1\Post_App.runtimeconfig.json
+C:\project\C#\Post-App\StackOverflow_Post_App\bin\Debug\netcoreapp3.1\Post_App.runtimeconfig.dev.json
+C:\project\C#\Post-App\StackOverflow_Post_App\bin\Debug\netcoreapp3.1\Post_App.dll
+C:\project\C#\Post-App\StackOverflow_Post_App\bin\Debug\netcoreapp3.1\Post_App.pdb
+C:\project\C#\Post-App\StackOverflow_Post_App\obj\Debug\netcoreapp3.1\Post_App.csprojAssemblyReference.cache
+C:\project\C#\Post-App\StackOverflow_Post_App\obj\Debug\netcoreapp3.1\Post_App.csproj.CoreCompileInputs.cache
+C:\project\C#\Post-App\StackOverflow_Post_App\obj\Debug\netcoreapp3.1\Post_App.AssemblyInfoInputs.cache
+C:\project\C#\Post-App\StackOverflow_Post_App\obj\Debug\netcoreapp3.1\Post_App.AssemblyInfo.cs
+C:\project\C#\Post-App\StackOverflow_Post_App\obj\Debug\netcoreapp3.1\Post_App.dll
+C:\project\C#\Post-App\StackOverflow_Post_App\obj\Debug\netcoreapp3.1\Post_App.pdb
+C:\project\C#\Post-App\StackOverflow_Post_App\obj\Debug\netcoreapp3.1\Post_App.genruntimeconfig.cache
